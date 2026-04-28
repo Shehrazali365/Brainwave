@@ -297,9 +297,9 @@ export const benefits = [
 export const socials = [
   {
     id: "0",
-    title: "Discord",
+    title: "Linkedin",
     iconUrl: discordBlack,
-    url: "#",
+    url: "https://www.linkedin.com/in/shehraz-ali/",
   },
   {
     id: "1",
