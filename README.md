@@ -1,17 +1,30 @@
-# React + Vite
+🤖 Introduction :
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+⚙️ Tech Stack :
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Vite
+React.js
+Tailwind CSS
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# Brainwave" 
+
+
+🔋 Features :
+
+👉 Beautiful Sections: Includes hero, services, features, how to use, roadmap, pricing, footer, and header.
+
+👉 Parallax Animations: Engaging effects triggered by mouse movement and scrolling
+
+👉 Complex UI Geometry: Utilizes tailwindcss for intricate shapes like circular feature displays, grid lines, and side lines.
+
+👉 Latest UI Trends: Incorporates modern design elements such as bento grids.
+
+👉 Cool Gradients: Enhances visuals with stylish gradients using Tailwind CSS for cards, buttons, etc.
+
+👉 Responsive: Ensures seamless functionality and aesthetics across all devices
+
+and many more, including code architecture and reusability
